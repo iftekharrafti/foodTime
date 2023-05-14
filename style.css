@@ -84,7 +84,6 @@ select {
 
 .hero-banner-section {
   background: url("./img/banner-bg.png");
-  /* background-position: center center; */
   background-size: cover;
 }
 .hero-banner {
@@ -247,7 +246,7 @@ select {
 }
 .city-image {
   flex-basis: calc(45% - 30px);
-  padding: 15px;
+  padding: 200px;
   box-sizing: border-box;
   background-image: url("./img/cycle-bg.png");
   background-position: center;
